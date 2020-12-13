@@ -1,5 +1,5 @@
 import os, sys
-sys.path.append("/Users/Julian/Documents/HiWi/PADS/pm4py-source")
+#sys.path.append("/Users/Julian/Documents/HiWi/PADS/pm4py-source")
 
 from pm4py.objects.log.importer.xes import importer as xes_import
 from pm4py.algo.discovery.inductive import algorithm as ind_miner
